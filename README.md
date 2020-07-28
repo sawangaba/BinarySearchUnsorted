@@ -8,3 +8,10 @@ Enter length of sequence to find:
 Enter the sequence to find: 
 
 Then the program will show that whether the entered number is present or not or if present then at which place.
+
+# About the project (technicality)
+Java 8+
+
+This repository is an eclipse project.
+
+Created by Sawan Gaba
